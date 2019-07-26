@@ -2,7 +2,7 @@
 
 An application written in C++ that fills customer orders from an inventory.
 
-## Learning Outcomes
+## Topics Covered
 * design and code a composition
 * work with vector and queue containers from the Standard Template Library
 * work with class variables and functions
